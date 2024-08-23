@@ -1,0 +1,51 @@
+.welcome-text {
+    font-size: 24px;
+    color:#53ab82;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.form-card {
+    background-color: #ffffff;
+    border: 1px solid #53ab82;
+    border-radius: 10px;
+}
+
+.form-label {
+    color: #53ab82;
+    font-weight: 450;
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #53ab82;
+}
+
+.form-select {
+    border-radius: 5px;
+    border: 1px solid #53ab82;
+}
+
+.submit-btn {
+    background-color: #53ab82;
+    border: none;
+    color: white;
+}
+
+.submit-btn:hover {
+    background-color: #53ab82;
+}
+.request-form-heading{
+    color: #53ab82;
+    font-weight: 400;
+}
+.check-box-control{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.checkbox{
+    height: 15px;
+    width: 20px;
+}
