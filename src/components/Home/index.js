@@ -95,7 +95,7 @@ const Home = () => {
               </div>
               <div className="mb-3 check-box-control">
                 <input onChange={onChangeIsChecked} className="checkbox" type='checkbox' checked={isChecked} />
-                <label className="ml-2 form-label">(Charges Might Incur)</label>
+                <label className="ml-2 form-label">Opt For Premium Service</label>
               </div>
               <button type="submit" className="btn btn-primary w-100 submit-btn">Submit</button>
             </form>
