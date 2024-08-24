@@ -2,6 +2,48 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Structure
+the project structure for this project is as follows
+
+C:/My Projects/careercarve/careercarvefrontend/
+  ├─node_modules/ (ignored)
+  ├─ public/
+  │  ├─ favicon.ico
+  │  ├─ index.html
+  │  ├─ logo192.png
+  │  ├─ logo512.png
+  │  ├─ manifest.json
+  │  └─ robots.txt
+  ├─ src/
+  │  ├─ components/
+  │  │  ├─ BookingFail/
+  │  │  │  └─ index.js
+  │  │  ├─ BookingSuccess/
+  │  │  │  ├─ index.css
+  │  │  │  └─ index.js
+  │  │  ├─ Header/
+  │  │  │  ├─ index.css
+  │  │  │  └─ index.js
+  │  │  ├─ Home/
+  │  │  │  ├─ index.css
+  │  │  │  └─ index.js
+  │  │  └─ Payment/
+  │  │     ├─ index.css
+  │  │     └─ index.js
+  │  ├─ App.css
+  │  ├─ App.js
+  │  ├─ App.test.js
+  │  ├─ index.css
+  │  ├─ index.js
+  │  ├─ logo.svg
+  │  ├─ reportWebVitals.js
+  │  └─ setupTests.js
+  ├─ .gitignore
+  ├─ package-lock.json
+  ├─ package.json
+  └─ README.md
+
+
 ## Available Scripts
 
 In the project directory, you can run:
